@@ -1,2 +1,8 @@
-# project-javascript-imc
-Projeto simples em Javascript Puro para cálculo de IMC(Índice de Massa Corpórea).
+# PROJETO SIMPLES PARA CÁLCULO DE IMC EM JS
+  
+  Primeiro Exercício de Javascript na aula de Programação WEB BACKEND
+  
+## Tecnologias Usadas:
+  - Javascript;
+  - HMTL;
+  - CSS.
