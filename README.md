@@ -4,5 +4,5 @@
   
 ### Tecnologias Usadas:
   - Javascript;
-  - HMTL;
+  - HTML;
   - CSS.
